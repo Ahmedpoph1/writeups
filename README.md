@@ -26,6 +26,14 @@ It includes screenshots of the request/response and the exact injection string u
 - [report link](https://medium.com/@apop69166/hackthebox-magical-palindrome-0b5bcabd2287)
 - 
 
+ ### 7. Captcha Bypass
+- Complete Captcha Bypass on Publisher Registration Endpoint /webapi/auth/publisher leading to Mass Account Creation
+- [report link](https://medium.com/@apop69166/captcha-bypass-33fe3ff229a6)
+
+ ### 7. Session Fixation
+- ritical Session Fixation Leading to Full Account Takeover (ATO) Due to Missing Session Regeneration on Authentication at api.cleeng.com
+- [report link](https://medium.com/p/b6291b8243f2?postPublishedType=initial)
+
  ### 7. Project Title
 - lorem ipusm project description
-- 
+-  
