@@ -34,10 +34,34 @@ It includes screenshots of the request/response and the exact injection string u
 - ritical Session Fixation Leading to Full Account Takeover (ATO) Due to Missing Session Regeneration on Authentication at api.cleeng.com
 - [report link](https://medium.com/p/b6291b8243f2?postPublishedType=initial)
 
- ### 7.CAPTCHA Verification Bypass
+ ### 9.CAPTCHA Verification Bypass
 - captcha bypass server side token 
 -  [report link](https://medium.com/@apop69166/server-side-recaptcha-validation-bypass-on-services-request-send-php-0e74076636f2?postPublishedType=initial)
 
- ### 8.idor
-- ajdo
+ ### 10.Broken Function Level Authorization in Linktree GraphQL API Allows Lower-Privileged Admins to Invite Administrators
+-  Lower-Privileged Admins to Invite Administrators
+-  [report link](https://medium.com/@apop69166/broken-function-level-authorization-in-linktree-graphql-api-allows-lower-privileged-admins-to-5d53185b3693?postPublishedType=initial)
+
+-   ### 11.Exposure of Shareable AWS S3 Pre-Signed Download URLs for Paid Digital Products
+-  data Exposure
+-  [report link](https://medium.com/@apop69166/exposure-of-shareable-aws-s3-pre-signed-download-urls-for-paid-digital-products-8e7dbef9fab3?postPublishedType=initial)
+
+-   ### 13.Broken Object Level Authorization (BOLA / IDOR) in Linktree GraphQL API Allows Unauthorized Modification of Links
+-  idor
+-  [report link](https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?postPublishedType=initial)
+
+-   ### 14.title
+-  abgd hqoz
+-  [report link]()
+
+-   ### 15.title
+-  abgd hqoz
+-  [report link]()
+
+-   ### 16.title
+-  abgd hqoz
+-  [report link]()
+
+-   ### 17.title
+-  abgd hqoz
 -  [report link]()
