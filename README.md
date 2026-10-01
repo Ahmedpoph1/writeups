@@ -34,6 +34,6 @@ It includes screenshots of the request/response and the exact injection string u
 - ritical Session Fixation Leading to Full Account Takeover (ATO) Due to Missing Session Regeneration on Authentication at api.cleeng.com
 - [report link](https://medium.com/p/b6291b8243f2?postPublishedType=initial)
 
- ### 7. Project Title
-- lorem ipusm project description
--  
+ ### 7.CAPTCHA Verification Bypass
+- captcha bypass server side token 
+-  [report link](https://medium.com/@apop69166/server-side-recaptcha-validation-bypass-on-services-request-send-php-0e74076636f2?postPublishedType=initial)
