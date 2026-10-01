@@ -37,3 +37,7 @@ It includes screenshots of the request/response and the exact injection string u
  ### 7.CAPTCHA Verification Bypass
 - captcha bypass server side token 
 -  [report link](https://medium.com/@apop69166/server-side-recaptcha-validation-bypass-on-services-request-send-php-0e74076636f2?postPublishedType=initial)
+
+ ### 8.idor
+- ajdo
+-  [report link]()
