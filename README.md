@@ -16,16 +16,16 @@ It includes screenshots of the request/response and the exact injection string u
 ### 4. RCE in w3schools
 - A critical Remote Code Execution (RCE) vulnerability was identified that allows unrestricted execution of Python code via web input, enabling attackers to run OS commands, access the filesystem, and obtain sensitive system information on the Linux server.
 - [report link](https://github.com/Ahmedpoph1/projects/blob/main/c0e9eff8-a8fb-4003-b1d2-6e15898923fb_RCE_on_w3scool.pdf)
-
+---
  ### 5. bypass time limit to claude code ai
 - bypass time limit to claude code ai 
 - [report link](https://github.com/Ahmedpoph1/projects/blob/main/bypass%20time%20limit%20to%20claude%20code%20ai)
-
+---
  ### 6. bypass js & ngnix filter
 - HackTheBox — Magical Palindrome
 - [report link](https://medium.com/@apop69166/hackthebox-magical-palindrome-0b5bcabd2287)
 - 
-
+---
  ### 7. Captcha Bypass
 - Complete Captcha Bypass on Publisher Registration Endpoint /webapi/auth/publisher leading to Mass Account Creation
 - [report link](https://medium.com/@apop69166/captcha-bypass-33fe3ff229a6)
@@ -41,27 +41,27 @@ It includes screenshots of the request/response and the exact injection string u
  ### 10.Broken Function Level Authorization in Linktree GraphQL API Allows Lower-Privileged Admins to Invite Administrators
 -  Lower-Privileged Admins to Invite Administrators
 -  [report link](https://medium.com/@apop69166/broken-function-level-authorization-in-linktree-graphql-api-allows-lower-privileged-admins-to-5d53185b3693?postPublishedType=initial)
-
+---
 -   ### 11.Exposure of Shareable AWS S3 Pre-Signed Download URLs for Paid Digital Products
 -  data Exposure
 -  [report link](https://medium.com/@apop69166/exposure-of-shareable-aws-s3-pre-signed-download-urls-for-paid-digital-products-8e7dbef9fab3?postPublishedType=initial)
-
+---
 -   ### 13.Broken Object Level Authorization (BOLA / IDOR) in Linktree GraphQL API Allows Unauthorized Modification of Links
 -  idor
 -  [report link](https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?postPublishedType=initial)
-
+---
 -   ### 14.title
 -  abgd hqoz
 -  [report link]()
-
+---
 -   ### 15.title
 -  abgd hqoz
 -  [report link]()
-
+---
 -   ### 16.title
 -  abgd hqoz
 -  [report link]()
-
+---
 -   ### 17.title
 -  abgd hqoz
 -  [report link]()
