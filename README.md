@@ -29,15 +29,15 @@ It includes screenshots of the request/response and the exact injection string u
  ### 7. Captcha Bypass
 - Complete Captcha Bypass on Publisher Registration Endpoint /webapi/auth/publisher leading to Mass Account Creation
 - [report link](https://medium.com/@apop69166/captcha-bypass-33fe3ff229a6)
-
+---
  ### 8. Session Fixation
 - ritical Session Fixation Leading to Full Account Takeover (ATO) Due to Missing Session Regeneration on Authentication at api.cleeng.com
 - [report link](https://medium.com/p/b6291b8243f2?postPublishedType=initial)
-
+---
  ### 9.CAPTCHA Verification Bypass
 - captcha bypass server side token 
 -  [report link](https://medium.com/@apop69166/server-side-recaptcha-validation-bypass-on-services-request-send-php-0e74076636f2?postPublishedType=initial)
-
+---
  ### 10.Broken Function Level Authorization in Linktree GraphQL API Allows Lower-Privileged Admins to Invite Administrators
 -  Lower-Privileged Admins to Invite Administrators
 -  [report link](https://medium.com/@apop69166/broken-function-level-authorization-in-linktree-graphql-api-allows-lower-privileged-admins-to-5d53185b3693?postPublishedType=initial)
