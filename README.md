@@ -50,13 +50,13 @@ It includes screenshots of the request/response and the exact injection string u
 -  idor
 -  [report link](https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?postPublishedType=initial)
 ---
--   ### 14.title
--  abgd hqoz
--  [report link]()
+-   ### 14.open redirect 
+-  Open Redirect in Employer OAuth Flow via Backslash Validation Bypass
+-  [report link](https://medium.com/@apop69166/open-redirect-in-employer-oauth-flow-via-backslash-validation-bypass-0fe571e0d9cf)
 ---
--   ### 15.title
--  abgd hqoz
--  [report link]()
+-   ### 15.
+-  Email Change Validation Issue: Old Email Remains Usable After an Email Update
+-  [report link](https://medium.com/@apop69166/email-change-validation-issue-old-email-remains-usable-after-an-email-update-e2668bf374bc)
 ---
 -   ### 16.title
 -  abgd hqoz
